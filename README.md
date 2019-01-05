@@ -9,5 +9,5 @@ This project is all about customizing Tomacat behaviour.Below are the topics thi
 
 For more details go through the project code base.
 
-Thank You!
+Regards,
 Subrat
