@@ -9,7 +9,7 @@ This project is all about customizing Tomacat behaviour.Below are the topics thi
 
 For more details go through the project code base.
 
-Note: Please more details, read code level comments
+Note: Please read code level comments for more details.
 
 Regards,
 Subrat
